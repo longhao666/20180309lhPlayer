@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>png1/3.png</file>
+        <file>png1/5.png</file>
+        <file>png1/7.png</file>
+        <file>png1/8.png</file>
+        <file>png1/11.png</file>
+        <file>gnome/Image-audio-volume-high.png</file>
+        <file>gnome/Image-audio-volume-muted-blocking-panel.png</file>
+    </qresource>
+</RCC>
