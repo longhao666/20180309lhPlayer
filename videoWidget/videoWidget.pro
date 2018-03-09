@@ -26,11 +26,13 @@ DEFINES += QT_DEPRECATED_WARNINGS
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
-        videowidget.cpp
+        videowidget.cpp \
+    showplayer.cpp
 
 HEADERS += \
         videowidget.h \
-        videowidget_global.h 
+        videowidget_global.h \ 
+    showplayer.h
 
 unix {
     target.path = /usr/lib

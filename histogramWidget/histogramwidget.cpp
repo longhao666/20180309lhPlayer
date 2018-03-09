@@ -330,4 +330,5 @@ void FrameProcessor::processFrame(QVideoFrame frame, int levels)
 
     emit histogramReady(histogram);
 }
+
 #include "histogramwidget.moc"
